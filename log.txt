@@ -1,0 +1,9 @@
+10.05.2022 18:39:19
+Object 1 is removed.
+
+10.05.2022 18:39:19
+Object 2 is removed.
+
+10.05.2022 18:39:19
+Object 3 is removed.
+

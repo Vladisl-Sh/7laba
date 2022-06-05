@@ -1,0 +1,25 @@
+D:\7.2\7.2\bin\Debug\7.2.exe.config
+D:\7.2\7.2\bin\Debug\7.2.exe
+D:\7.2\7.2\bin\Debug\7.2.pdb
+D:\7.2\7.2\obj\Debug\7.2.csprojResolveAssemblyReference.cache
+D:\7.2\7.2\obj\Debug\7.2.exe
+D:\7.2\7.2\obj\Debug\7.2.pdb
+D:\Учёба\2 курс\4 семестр\ООП\7.2\7.2\bin\Debug\7.2.exe.config
+D:\Учёба\2 курс\4 семестр\ООП\7.2\7.2\obj\Debug\7.2.exe
+D:\Учёба\2 курс\4 семестр\ООП\7.2\7.2\obj\Debug\7.2.pdb
+D:\Учёба\2 курс\4 семестр\ООП\7.2\7.2\bin\Debug\7.2.exe
+D:\Учёба\2 курс\4 семестр\ООП\7.2\7.2\bin\Debug\7.2.pdb
+D:\Учёба\2 курс\4 семестр\ООП\7.2\7.2\obj\Debug\7.2.csprojResolveAssemblyReference.cache
+D:\projecti C#\ООП\7.2\7.2\bin\Debug\7.2.exe.config
+D:\projecti C#\ООП\7.2\7.2\bin\Debug\7.2.exe
+D:\projecti C#\ООП\7.2\7.2\bin\Debug\7.2.pdb
+D:\projecti C#\ООП\7.2\7.2\obj\Debug\7.2.csproj.CoreCompileInputs.cache
+D:\projecti C#\ООП\7.2\7.2\obj\Debug\7.2.exe
+D:\projecti C#\ООП\7.2\7.2\obj\Debug\7.2.pdb
+D:\!!! УНИВЕР\4 сем\Новая папка\7.2\7.2\bin\Debug\7.2.exe.config
+D:\!!! УНИВЕР\4 сем\Новая папка\7.2\7.2\bin\Debug\7.2.exe
+D:\!!! УНИВЕР\4 сем\Новая папка\7.2\7.2\bin\Debug\7.2.pdb
+D:\!!! УНИВЕР\4 сем\Новая папка\7.2\7.2\obj\Debug\7.2.csprojAssemblyReference.cache
+D:\!!! УНИВЕР\4 сем\Новая папка\7.2\7.2\obj\Debug\7.2.csproj.CoreCompileInputs.cache
+D:\!!! УНИВЕР\4 сем\Новая папка\7.2\7.2\obj\Debug\7.2.exe
+D:\!!! УНИВЕР\4 сем\Новая папка\7.2\7.2\obj\Debug\7.2.pdb
